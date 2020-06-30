@@ -1,14 +1,9 @@
 # Skills
 
 # Technical skills
-  - skill: HTML, CSS, SASS,LESS, Bootstrap;
-  skill: responsive and cross-browser coding;
-  skill: JavaScript, EcmaScript6+;
-  skill: React (basic);
-  skill: Git (GitHub, GitKraken);
-  skill: VS Code, Sublime Text, WebStorm;
-  skill: Adobe Photoshop, Figma;
-  skill: BEM;
-# Leadership
-#- skill: Leadership
-  #description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  - skill: HTML, CSS, SASS,LESS, Bootstrap; responsive and cross-browser coding; JavaScript, EcmaScript6+; React (basic); Git (GitHub, GitKraken); VS Code, Sublime Text, WebStorm; Adobe Photoshop, Figma;
+BEM;
+  
+# Soft skills
+- skill: Leadership
+  description: Managed work teams.

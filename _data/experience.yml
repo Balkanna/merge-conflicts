@@ -1,16 +1,16 @@
 # Jobs
 
-# Trainer
+# IT-Academy
 - company: IT-Academy – The educational center of the HTP
   duration: November, 2019 &mdash; January, 2020
-  position: Web application development with JavaScript
-  #summary: Teach all things Git, give away all the stickers, ensure world peace.
-
-# Job Title
+  position: Student
+  summary: Web application development with JavaScript
+  
+# IT-Academy
 - company: IT-Academy – The educational center of the HTP
   duration: May, 2019 &mdash; August, 2019
-  position: Website development with HTML, CSS and JavaScript
-  #summary: Web developer for a restuarant meat provider.
+  position: Student
+  summary: Website development with HTML, CSS and JavaScript.
   
 # Supportocat
 #- company: GitHub, Inc.

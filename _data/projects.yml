@@ -4,15 +4,13 @@
 # probot
 - project: Vanilla JS Todo app
   #role: Contributor
-  tech Stack: HTML, CSS, LESS, EcmaScript 6; MVC pattern;
   #duration: 2016 &mdash; Present
   url: "https://github.com/Balkanna/todo-list"
-  description: add, delete, edit tasks/lists, localStorage saving, tasks counter; adaptive and responsive layout.
+  description: Tech Stack: HTML, CSS, LESS, EcmaScript 6; MVC pattern; Functionalities: add, delete, edit tasks/lists, localStorage saving, tasks counter; adaptive and responsive layout.
   
 # GitHub Classroom
 - project: Singolo Landing page
   #role: Contributor
-  tech Stack: HTML, CSS, EcmaScript 6;
   #duration: 2015 &mdash; Present
   url: "https://github.com/Balkanna/singolo"
-  description: landing page, image carousel, feedback form, adaptive and responsive layout.
+  description: Tech Stack: HTML, CSS, EcmaScript 6. Functionalities: landing page, image carousel, feedback form, adaptive and responsive layout.
